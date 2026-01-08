@@ -1,0 +1,5 @@
+{
+  "name": "GCB Sizing Calculator (IEC/IEEE 62271-37-013)",
+  "description": "A professional engineering tool for Generator Circuit Breaker (GCB) sizing. Calculates symmetrical currents, DC components, and TRV suitability for System-source and Generator-source faults.",
+  "requestFramePermissions": []
+}
